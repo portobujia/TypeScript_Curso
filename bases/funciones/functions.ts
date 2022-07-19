@@ -12,6 +12,6 @@
 
     console.log(typeof activateBatisignal);
 
-    const heroaName=returnName()
+    const heroaName = returnName()
 
 })()
